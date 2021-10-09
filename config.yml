@@ -1,0 +1,55 @@
+baseURL: https://srisco.dev
+languageCode: en-us
+title: srisco.dev
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: G-BGSTB91JYZ
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+
+params:
+  env: production
+  defaultTheme: auto
+  title: srisco.dev
+  keywords: [Portfolio, Sebastián Risco]
+  profileMode:
+    enabled: true
+    title: Sebastián Risco
+    subtitle: Cloud Computing R&D Engineer
+    imageUrl: /img/profile.jpg
+    imageTitle: Sebastián Risco
+    imageWidth: 200
+    imageHeight: 200
+
+  socialIcons:
+  - name: github
+    url: https://github.com/srisco
+  - name: twitter
+    url: https://twitter.com/sriscog
+  - name: email
+    url: mailto:sebas@srisco.dev
+  - name: researchgate
+    url: https://www.researchgate.net/profile/Sebastian-Risco
+  - name: linkedin
+    url: https://es.linkedin.com/in/sebasrisco
+
+
+menu:
+  main:
+  - identifier: about
+    name: About
+    url: /about/
+    weight: 10
+  - identifier: publications
+    name: Publications
+    url: /publications/
+    weight: 10
+
