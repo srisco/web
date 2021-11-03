@@ -1,5 +1,5 @@
 ---
-title: srisco.dev
+title: sris.co
 description: Sebastián Risco
 ---
 

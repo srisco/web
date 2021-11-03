@@ -1,7 +1,7 @@
 baseURL: https://sris.co
 languageCode: en-us
 defaultContentLanguage: en
-title: srisco.dev
+title: sris.co
 theme: congo
 
 enableRobotsTXT: true
