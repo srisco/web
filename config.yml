@@ -1,4 +1,4 @@
-baseURL: https://srisco.dev
+baseURL: https://sris.co
 languageCode: en-us
 defaultContentLanguage: en
 title: srisco.dev
@@ -23,7 +23,7 @@ author:
   name: Sebastián Risco
   image: /img/profile.jpg
   links:
-  - email: mailto:sebas@srisco.dev
+  - email: mailto:sebas@sris.co
   - github: https://github.com/srisco
   - twitter: https://twitter.com/sriscog
   - researchgate: https://www.researchgate.net/profile/Sebastian-Risco
