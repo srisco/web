@@ -33,7 +33,8 @@ author:
 params:
   env: production
   keywords: [Portfolio, Sebastián Risco]
-  colorScheme: cool-gray
+  colorScheme: slate
+  darkToggle: true
   homepage:
     layout: profile
     showRecent: false
