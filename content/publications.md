@@ -4,6 +4,8 @@ title: Publications
 
 ## 2021
 
+Diana M. Naranjo, Sebastián Risco, Germán Moltó and Ignacio Blanquer. (2021) **A serverless gateway for event-driven machine learning inference in multiple clouds.** *Concurrency and Computation: Practice and Experience*. https://doi.org/10.1002/cpe.6728
+
 Sebastián Risco, Germán Moltó, Diana M. Naranjo and Ignacio Blanquer. (2021) **Serverless Workflows for Containerised Applications in the Cloud Continuum.** *Journal of Grid Computing*, 3 (19). https://doi.org/10.1007/s10723-021-09570-2
 
 Sebastián Risco and Germán Moltó. (2021) **GPU-Enabled Serverless Workflows for Efficient Multimedia Processing.** *Applied Sciences*, 1438 (11), 1 - 17. https://doi.org/10.3390/app11041438
