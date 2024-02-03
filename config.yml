@@ -3,6 +3,7 @@ languageCode: en-us
 defaultContentLanguage: en
 title: sris.co
 theme: congo
+copyright: "© Sebastián Risco"
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -19,22 +20,10 @@ disableKinds:
 - taxonomy
 - term
 
-author:
-  name: Sebastián Risco
-  image: /img/profile.jpg
-  links:
-  - email: mailto:sebas@sris.co
-  - github: https://github.com/srisco
-  - twitter: https://twitter.com/sriscog
-  - researchgate: https://www.researchgate.net/profile/Sebastian-Risco
-  - linkedin: https://es.linkedin.com/in/sebasrisco
-  - orcid: https://orcid.org/0000-0002-7710-2182
-
 params:
   env: production
   keywords: [Portfolio, Sebastián Risco]
   colorScheme: slate
-  darkToggle: true
   homepage:
     layout: profile
     showRecent: false
@@ -43,6 +32,20 @@ params:
     showAuthor: false
     showReadingTime: false
     showPagination: false
+  author:
+    name: Sebastián Risco
+    image: img/profile.jpg
+    links:
+    - email: mailto:sebas@sris.co
+    - github: https://github.com/srisco
+    - x-twitter: https://twitter.com/sriscog
+    - researchgate: https://www.researchgate.net/profile/Sebastian-Risco
+    - linkedin: https://es.linkedin.com/in/sebasrisco
+    - orcid: https://orcid.org/0000-0002-7710-2182
+  footer:
+    showAppearanceSwitcher: true
+    showThemeAttribution: false
+    showScrollToTop: true
 
 menu:
   main:
@@ -54,4 +57,6 @@ menu:
     name: Publications
     url: /publications/
     weight: 10
+
+
 
