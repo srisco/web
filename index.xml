@@ -5,28 +5,22 @@
     <link>https://sris.co/</link>
     <description>Recent content on sris.co</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://sris.co/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>© Sebastián Risco</copyright>
+    <atom:link href="https://sris.co/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://sris.co/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sris.co/about/</guid>
-      <description>Hi, I&amp;rsquo;m Sebastian Risco! I&amp;rsquo;m a software engineer with a strong interest in Serverless Computing, Cloud Computing and DevOps culture.
-I love developing in Go and Python, languages I use in most of the projects I work on, which you can find in my GitHub. I&amp;rsquo;m also a big fan of Open Source and Free Software, especially of the GNU/Linux operating system (I use arch, BTW😆).
-Since 2018 I&amp;rsquo;m a member of the Grid and High Performance Computing research group (GRyCAP) at the Institute for Molecular Imaging Technologies (i3M) of the Universitat Politècnica de València.</description>
+      <description>Hi, I&amp;rsquo;m Sebastian Risco! I&amp;rsquo;m a software engineer with a strong interest in Serverless Computing, Cloud Computing and DevOps culture.&#xA;I love developing in Go and Python, languages I use in most of the projects I work on, which you can find in my GitHub. I&amp;rsquo;m also a big fan of Open Source and Free Software, especially of the GNU/Linux operating system (I use arch, BTW😆).&#xA;In 2023, I completed my PhD thesis entitled &amp;ldquo;Serverless Strategies and Tools in the Cloud Computing Continuum&amp;rdquo;, which I developed during my stage as a researcher in the Grid and High Performance Computing research group (GRyCAP) at the Institute for Molecular Imaging Technologies (i3M) of the Universitat Politècnica de València, and whose main result was the OSCAR platform.</description>
     </item>
-    
     <item>
       <title>Publications</title>
       <link>https://sris.co/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sris.co/publications/</guid>
-      <description>2021 #   Diana M. Naranjo, Sebastián Risco, Germán Moltó and Ignacio Blanquer. (2021) A serverless gateway for event-driven machine learning inference in multiple clouds. Concurrency and Computation: Practice and Experience. https://doi.org/10.1002/cpe.6728
-  Sebastián Risco, Germán Moltó, Diana M. Naranjo and Ignacio Blanquer. (2021) Serverless Workflows for Containerised Applications in the Cloud Continuum. Journal of Grid Computing, 3 (19). https://doi.org/10.1007/s10723-021-09570-2
-  Sebastián Risco and Germán Moltó. (2021) GPU-Enabled Serverless Workflows for Efficient Multimedia Processing.</description>
+      <description>2023 # Sebastián Risco, Caterina Alarcón, Sergio Langarita, Miguel Caballer, and Germán Moltó. (2023) Rescheduling serverless workloads across the cloud-to-edge continuum. Future Generation Computer Systems, 153:457–466. https://doi.org/10.1016/j.future.2023.12.015&#xA;Diana M. Naranjo Delgado, Manuel Contreras, Germán Moltó, Sebastián Risco, Ignacio Blanquer, Javier Prades, and Federico Silla. (2023) On the Acceleration of FaaS Using Remote GPU Virtualization. In Companion of the 2023 ACM/SPEC International Conference on Performance Engineering, pp. 157–164. https://doi.org/10.1145/3578245.3584933&#xA;Vincenzo Eduardo Padulano, Pablo Oliver Cortés, Pedro Alonso-Jordá, Enric Tejedor Saavedra, Sebastián Risco and Germán Moltó.</description>
     </item>
-    
   </channel>
 </rss>
