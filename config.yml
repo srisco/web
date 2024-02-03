@@ -3,7 +3,6 @@ languageCode: en-us
 defaultContentLanguage: en
 title: sris.co
 theme: congo
-copyright: "© Sebastián Risco"
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -43,9 +42,7 @@ params:
     - linkedin: https://es.linkedin.com/in/sebasrisco
     - orcid: https://orcid.org/0000-0002-7710-2182
   footer:
-    showAppearanceSwitcher: true
-    showThemeAttribution: false
-    showScrollToTop: true
+    showCopyright: false
 
 menu:
   main:
