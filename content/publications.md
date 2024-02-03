@@ -2,6 +2,14 @@
 title: Publications
 ---
 
+## 2023
+
+- Sebastián Risco, Caterina Alarcón, Sergio Langarita, Miguel Caballer, and Germán Moltó. (2023) **Rescheduling serverless workloads across the cloud-to-edge continuum.** *Future Generation Computer Systems*, 153:457–466. https://doi.org/10.1016/j.future.2023.12.015
+
+- Diana M. Naranjo Delgado, Manuel Contreras, Germán Moltó, Sebastián Risco, Ignacio Blanquer, Javier Prades, and Federico Silla. (2023) **On the Acceleration of FaaS Using Remote GPU Virtualization.** *In Companion of the 2023 ACM/SPEC International Conference on Performance Engineering*, pp. 157–164. https://doi.org/10.1145/3578245.3584933
+
+- Vincenzo Eduardo Padulano, Pablo Oliver Cortés, Pedro Alonso-Jordá, Enric Tejedor Saavedra, Sebastián Risco and Germán Moltó. (2023) **Leveraging an open source serverless framework for high energy physics computing.** *The Journal of Supercomputing*, 79:8940–8965. https://doi.org/10.1007/s11227-022-05016-y
+
 ## 2021
 
 - Diana M. Naranjo, Sebastián Risco, Germán Moltó and Ignacio Blanquer. (2021) **A serverless gateway for event-driven machine learning inference in multiple clouds.** *Concurrency and Computation: Practice and Experience*. https://doi.org/10.1002/cpe.6728
