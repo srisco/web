@@ -43,6 +43,7 @@ params:
     - orcid: https://orcid.org/0000-0002-7710-2182
   footer:
     showCopyright: false
+    showThemeAttribution: false
 
 menu:
   main:
